@@ -1,0 +1,15 @@
+== Synopsis
+This is a simple script which checks you photo bags against the webservice of Rossmann (german drugstore)
+
+== Examples
+bagchecker.rb -i bags.xml
+
+== Usage
+bagchecker.rb -i bags.xml
+
+== Author
+beanie
+
+== Copyright
+Copyright (c) 2009 beanie. Licensed under GPL Version 2:
+http://www.gnu.org/licenses/gpl-2.0.html
