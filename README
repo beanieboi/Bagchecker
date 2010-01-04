@@ -11,5 +11,4 @@ bagchecker.rb -i bags.xml
 beanie
 
 == Copyright
-Copyright (c) 2009 beanie. Licensed under GPL Version 2:
-http://www.gnu.org/licenses/gpl-2.0.html
+Copyright (c) 2009 beanie. Licensed under MIT or "do what you want"
